@@ -19,3 +19,16 @@ matrix = [
          ]
 ```
 [LeetCode](https://leetcode.com/problems/rotate-image/)
+
+## 1-2
+
+## 2. [Power](./pow.cpp)
+How would you optimally calculate p^k, where k is a non-negative integer?
+```
+Input: 2 4
+Output: 16
+
+Input: 3 5
+Output: 243
+```
+[link](https://bit.ly/3hgN6wl)
