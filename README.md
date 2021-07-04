@@ -3,8 +3,9 @@
 ## Topics
 
 - [Algorithms and Problem Solving](./Algorithms/README.md)
-- [Data Structure](./Data Sturcture/README.md)
+- [Data Structure](https://github.com/mo1ein/cs-studies/blob/main/Data%20Sturcture/README.md)
 - OOP (cpp and python )
+- Design patterns
 - System Design
 - linux
 - Database (sql and...)
@@ -23,4 +24,4 @@
 -
 -
 -
-## Crete resume and how ...
+## Create resume and how ...
