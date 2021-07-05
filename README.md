@@ -2,7 +2,7 @@
 
 ## Topics
 
-- [Algorithms and Problem Solving](./Algorithms/README.md)
+- [Algorithms and Problem Solving](./Algorithms)
 - [Data Structure](https://github.com/mo1ein/cs-studies/blob/main/Data%20Sturcture/README.md)
 - OOP (cpp and python )
 - Design patterns

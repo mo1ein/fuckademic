@@ -22,7 +22,7 @@ matrix = [
 
 ## 1-2
 
-## 2. [Power](./pow.cpp)
+## 2. [Power](./Pow.cpp)
 How would you optimally calculate p^k, where k is a non-negative integer?
 ```
 Input: 2 4
