@@ -32,3 +32,6 @@ Input: 3 5
 Output: 243
 ```
 [link](https://bit.ly/3hgN6wl)
+
+## 3. [Random number](./RandomNumber.cpp)
+Given a function that returns a random integer number between 1 and 5, create a function that creates a random integer between 1 and 7.
