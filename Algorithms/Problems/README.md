@@ -35,3 +35,13 @@ Output: 243
 
 ## 3. [Random number](./RandomNumber.cpp)
 Given a function that returns a random integer number between 1 and 5, create a function that creates a random integer between 1 and 7.
+// add link
+
+
+## 4. [Missing number](./MissingNumber.cpp)
+Find the missing numbers in an unsorted integer array. There might be duplicate numbers in the list.
+```
+Input: [2, 5, 1, 1, 2, 6, 9, 4, 4]
+Output: [3, 7, 8]
+```
+// add link
