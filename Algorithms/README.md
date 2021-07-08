@@ -10,3 +10,5 @@
 .
 .
 .
+## Famous algorithms
+- [Binary search](./binary_search.cpp)
