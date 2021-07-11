@@ -6,16 +6,16 @@ You have to rotate the image in-place, which means you have to modify the input 
 ```
 Input:
 matrix = [
-            [1,2,3],
-            [4,5,6],
-            [7,8,9]
+            [1, 2, 3],
+            [4, 5, 6],
+            [7, 8, 9]
          ]
 
 Output:
 matrix = [
-            [7,4,1],
-            [8,5,2],
-            [9,6,3]
+            [7, 4, 1],
+            [8, 5, 2],
+            [9, 6, 3]
          ]
 ```
 [LeetCode](https://leetcode.com/problems/rotate-image/)
@@ -45,3 +45,32 @@ Input: [2, 5, 1, 1, 2, 6, 9, 4, 4]
 Output: [3, 7, 8]
 ```
 // add link
+
+
+
+
+## 5. [Find Matrix Saddle Point](./matrixSaddlePoint.cpp)
+Given a matrix of n x n size, the task is to find the saddle point of the matrix.
+A saddle point is an element of the matrix such that it is the minimum element in its row and maximum in its column.
+```
+Input:
+matrix = [
+            [1, 2, 3],
+            [4, 5, 6],
+            [7, 8, 9]
+         ]
+
+Output: 7
+// 7 is minimum in its row and maximum in its column.
+
+Input:
+matrix = [
+            [1, 2, 3],
+            [4, 5, 6],
+            [10, 18, 4]
+         ]
+
+Output: No saddle point
+```
+
+[link](https://www.geeksforgeeks.org/saddle-point-matrix/)
