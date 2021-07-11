@@ -12,14 +12,12 @@
 .
 
 ## Famous algorithms
-### Binary search
-<ul>
-<li>[iterative binary search](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/binary%20search/iterative_binary_search.cpp)</li>
-<li>[recursive binary search](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/binary%20search/recursive_binary_search.cpp)</li>
-</ul>
 
+### Binary search
+- [iterative binary search](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/binary%20search/iterative_binary_search.cpp) </li>
+- [recursive binary search](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/binary%20search/recursive_binary_search.cpp) </li>
 
 ### Sorting Algorithms
-<ul>
-<li>[insertion sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/insertion%20sort/insertion_sort.cpp)</li>
-</ul>
+- [insertion sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/insertion%20sort/insertion_sort.cpp)</li>
+
+
