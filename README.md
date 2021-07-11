@@ -9,12 +9,12 @@
 - System Design
 - linux
 - Database (sql and...)
-- Clean Code
+- [Clean Code](https://github.com/mo1ein/cs-studies/tree/main/Clean%20Code)
 - python django
 - Project for learn
 - [cpp more]()
 - fast typing
-- git
+- [git](./git)
 - python and cpp language knowledge
 - docker
 - ci/cd
