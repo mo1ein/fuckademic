@@ -1,24 +1,22 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
-int binarySearch(vector<int> &array, int &start, int &end, int &key)
+int binarySearch(vector<int> &array, int start, int end, int &key)
 {
-    while (start <= end)
+    if (start <= end)
     {
         int middle = start + (end - start) / 2;
 
-        if (array[middle] == key)
+        if(array[middle] == key)
             return middle;
 
-        if (key < array[middle])
-            end = middle - 1 ;
-        else
-            start = middle + 1;
+        if(key < array[middle])
+            return binarySearch(array, start, middle - 1, key);
+
+        return binarySearch(array, middle + 1, end, key);
     }
     return -1;
 }
-
 
 int main()
 {
