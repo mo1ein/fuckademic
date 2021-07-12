@@ -48,7 +48,6 @@ Output: [3, 7, 8]
 
 
 
-
 ## 5. [Find Matrix Saddle Point](./matrixSaddlePoint.cpp)
 Given a matrix of n x n size, the task is to find the saddle point of the matrix.
 A saddle point is an element of the matrix such that it is the minimum element in its row and maximum in its column.
@@ -74,3 +73,19 @@ Output: No saddle point
 ```
 
 [link](https://www.geeksforgeeks.org/saddle-point-matrix/)
+
+
+## 5-1. [Find Matrix Saddle Point](./matrixSaddlePoint.cpp)
+Find saddle point of matrix like perevious problem.
+But an element of the matrix such that it is the maximum element in its row and minimum in its column.
+```
+Input:
+matrix = [
+            [1, 2, 3],
+            [4, 5, 6],
+            [7, 8, 9]
+         ]
+
+Output: 3
+// 3 is maximum in its row and minimum in its column.
+```
