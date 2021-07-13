@@ -20,7 +20,24 @@ matrix = [
 ```
 [LeetCode](https://leetcode.com/problems/rotate-image/)
 
-## 1-2
+
+## 1-2. [Rotate Image](./RotateImage2.cpp)
+solve the perevious problem for anticlockwise mode.
+```
+Input:
+matrix = [
+            [1, 2, 3],
+            [4, 5, 6],
+            [7, 8, 9]
+         ]
+
+Output:
+matrix = [
+            [3, 6, 9],
+            [2, 5, 8],
+            [1, 4, 7]
+         ]
+```
 
 ## 2. [Power](./Pow.cpp)
 How would you optimally calculate p^k, where k is a non-negative integer?
@@ -32,6 +49,7 @@ Input: 3 5
 Output: 243
 ```
 [link](https://bit.ly/3hgN6wl)
+
 
 ## 3. [Random number](./RandomNumber.cpp)
 Given a function that returns a random integer number between 1 and 5, create a function that creates a random integer between 1 and 7.
@@ -45,7 +63,6 @@ Input: [2, 5, 1, 1, 2, 6, 9, 4, 4]
 Output: [3, 7, 8]
 ```
 // add link
-
 
 
 ## 5. [Find Matrix Saddle Point](./matrixSaddlePoint.cpp)
@@ -71,11 +88,10 @@ matrix = [
 
 Output: No saddle point
 ```
-
 [link](https://www.geeksforgeeks.org/saddle-point-matrix/)
 
 
-## 5-1. [Find Matrix Saddle Point](./matrixSaddlePoint.cpp)
+## 5-1. [Find Matrix Saddle Point](./matrixSaddlePoint2.cpp)
 Find saddle point of matrix like perevious problem.
 But an element of the matrix such that it is the maximum element in its row and minimum in its column.
 ```
