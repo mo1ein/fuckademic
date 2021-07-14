@@ -24,3 +24,13 @@ show the commit log as a graph:
 ```
 git log --graph
 ```
+
+show changes over time for a speceific file
+```
+git log -p <file>
+```
+
+who changed what file and when in file
+```
+git blame <file>
+```
