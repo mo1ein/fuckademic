@@ -21,3 +21,5 @@
 - [insertion sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/insertion%20sort/insertion_sort.cpp)</li>
 
 
+### Find Path Algorithms
+- [shortest path with BFS](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/shortestPathBfs.cpp)</li>
