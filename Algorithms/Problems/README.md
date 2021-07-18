@@ -105,7 +105,6 @@ Output: 3
 // 3 is maximum in its row and minimum in its column.
 ```
 
-
 ## 6. [Set Matrix Zeroes](./SetMatrixZeroes.cpp)
 Given an `m x n` integer matrix matrix, if an element is `0`, set its entire row and column to `0`'s, and return the matrix.
 You must do it `in place`.
@@ -125,3 +124,17 @@ matrix = [
          ]
 ```
 [link](https://leetcode.com/problems/set-matrix-zeroes/)
+
+
+## 7. [Minimum Path Sum](./)
+Given a `m x n` grid filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.
+```
+Input:
+grid = [
+          [1, 3, 1],
+          [1, 5, 1],
+          [4, 2, 1]
+       ]
+
+Output: 7 // Because the path 1 → 3 → 1 → 1 → 1 minimizes the sum.
+```
