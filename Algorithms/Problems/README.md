@@ -104,3 +104,24 @@ matrix = [
 Output: 3
 // 3 is maximum in its row and minimum in its column.
 ```
+
+
+## 6. [Set Matrix Zeroes](./SetMatrixZeroes.cpp)
+Given an `m x n` integer matrix matrix, if an element is `0`, set its entire row and column to `0`'s, and return the matrix.
+You must do it `in place`.
+```
+Input:
+matrix = [
+            [1, 1, 1],
+            [1, 0, 1],
+            [1, 1, 1]
+         ]
+
+Output:
+matrix = [
+            [1, 0, 1],
+            [0, 0, 0],
+            [1, 0, 1]
+         ]
+```
+[link](https://leetcode.com/problems/set-matrix-zeroes/)
