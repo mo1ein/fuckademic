@@ -6,7 +6,7 @@
 - [Data Structure](https://github.com/mo1ein/cs-studies/blob/main/Data%20Sturcture/README.md)
 - [OOP (cpp and python )](./OOP)
 - Design patterns
-- System Design
+- [System Design](./System%20Design)
 - linux
 - Database (sql and...)
 - [Clean Code](https://github.com/mo1ein/cs-studies/tree/main/Clean%20Code)
