@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<algorithm>
+#include<vector>
 using namespace std;
 
 int main()
@@ -10,8 +12,8 @@ int main()
     };
 
     sort(ans.begin(),ans.end());
-
     vector<vector<int>> merged;
+
     for (auto i : ans) {
         if (merged.empty() || merged.back()[1] < i[0])
             merged.push_back(i);
@@ -23,6 +25,6 @@ int main()
         for (int j = 0; j < merged[0].size(); j++) {
             cout << merged[i][j] << " ";
         }
-            cout << "\n";
+        cout << "\n";
     }
 }
