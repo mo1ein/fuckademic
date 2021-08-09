@@ -39,3 +39,24 @@ Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
 Total amount you can rob = 1 + 3 = 4.
 ```
 [link](https://leetcode.com/problems/house-robber/)
+
+
+## 4. [Unique Paths](./UniquePaths.cpp)
+A robot is located at the top-left corner of a `m x n` grid (marked 'Start' in the diagram below).
+The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
+How many possible unique paths are there?
+
+<img alt="" src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png" style="width: 500px; height: 198px;">
+
+```
+Input: m = 3, n = 7
+Output: 28
+
+```
+[link](https://leetcode.com/problems/unique-paths/)
+
+[approach 1](./UniquePaths.cpp)
+
+[approach 2](./UniquePaths2.cpp)
+
+[approach 3](./UniquePaths3.cpp)
