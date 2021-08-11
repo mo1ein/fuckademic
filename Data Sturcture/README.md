@@ -5,4 +5,5 @@
 - merge sort
 
 ## Linkded lists
-- singly
+### Singly
+- [add element first of node](./addFirst.cpp)
