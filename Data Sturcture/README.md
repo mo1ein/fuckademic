@@ -7,3 +7,4 @@
 ## Linkded lists
 ### Singly
 - [add element first of node](./addFirst.cpp)
+- [add element end of node](./append.cpp)
