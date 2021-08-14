@@ -10,3 +10,5 @@
 - polymorphism
 - Inheritance
 - abstraction
+
+https://www.geeksforgeeks.org/new-vs-malloc-and-free-vs-delete-in-c/
