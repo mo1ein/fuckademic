@@ -22,6 +22,7 @@ dangeling pointer
 macros
 list
 
+https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A
 https://www.geeksforgeeks.org/queue-cpp-stl/
 https://www.geeksforgeeks.org/how-to-create-an-unordered_map-of-pairs-in-c/
 
