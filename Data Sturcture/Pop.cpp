@@ -25,6 +25,7 @@ void pop(struct Node *&head) {
     while (tmp->next->next != NULL)
         tmp = head->next;
 
+    delete tmp->next;
     tmp->next = NULL;
 }
 
@@ -54,14 +55,12 @@ void append(struct Node *&head, int val) {
 }
 
 
-/*
 void print(struct Node *head) {
     while (head != NULL) {
         std::cout << head->data << " ";
         head = head->next;
     }
 }
-*/
 
 
 int main() {
@@ -75,5 +74,6 @@ int main() {
 
     pop(head);
 
+    print(head);
     // output is: 2->6->null
 }

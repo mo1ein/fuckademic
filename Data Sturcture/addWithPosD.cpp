@@ -66,6 +66,7 @@ void addWithPos(struct Node *&head, int pos, int val) {
 
 
 void append(struct Node *&head, int val) {
+
     Node *add_to = new Node;
     add_to->data = val;
     add_to->next = NULL;
