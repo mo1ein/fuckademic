@@ -12,7 +12,7 @@
 - [Clean Code](https://github.com/mo1ein/cs-studies/tree/main/Clean%20Code)
 - python django
 - Project for learn
-- [cpp more]()
+- [Cpp more](./Cpp)
 - fast typing
 - [git](./git)
 - python and cpp language knowledge
