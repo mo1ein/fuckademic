@@ -29,6 +29,7 @@
 - [x] [Add element to the end of the dlist](./appendD.cpp)
 - [x] [Insert a node at a specific position in a dlinked list](./addWithPosD.cpp)
 - [x] [Remove element from end of the list](./PopD.cpp)
-- [] [Remove first node of the dlist](./delFirstD.cpp)
-- [] [Remove given key from the dlist](./delD.cpp)
+- [x] [Remove first node of the dlist](./DelFirstD.cpp)
+- [x] [Remove given key from the dlist](./delD.cpp)
 //add after and add before stuffs
+// del with node pos for both
