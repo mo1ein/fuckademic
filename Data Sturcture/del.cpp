@@ -31,10 +31,12 @@ void del(struct Node *&head, int val) {
 
     if (tmp->next == NULL) {
         std::cout << "not found a key\n";
-        return;
     }
-
-    tmp->next = tmp->next->next;
+    else {
+        Node *del = tmp->next;
+        tmp->next = tmp->next->next;
+        delete del;
+    }
 }
 
 
@@ -63,14 +65,12 @@ void append(struct Node *&head, int val) {
 }
 
 
-/*
 void print(struct Node *head) {
     while (head != NULL) {
         std::cout << head->data << " ";
         head = head->next;
     }
 }
-*/
 
 
 int main() {
@@ -87,6 +87,8 @@ int main() {
 
     del(head, 7);
     del(head, 34);
+
+    print(head);
 
     // output is:
     // list is empty
