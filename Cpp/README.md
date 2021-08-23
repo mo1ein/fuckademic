@@ -23,6 +23,7 @@ macros
 list
 
 for linked lissts :
+https://www.alphacodingskills.com/cpp/ds/cpp-delete-all-nodes-by-key-of-the-doubly-linked-list.php
 https://www.alphacodingskills.com/cpp/ds/cpp-delete-the-last-node-of-the-doubly-linked-list.php
 https://www.youtube.com/watch?v=EgrSkwnuZUU&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y&index=71
 https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A
