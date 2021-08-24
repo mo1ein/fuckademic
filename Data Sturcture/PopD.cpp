@@ -9,23 +9,23 @@ struct Node {
 
 
 void Pop(struct Node *&head) {
-    Node *tmp = new Node;
-    tmp = head;
 
-    if (head == NULL)
-        return;
+    if (head != NULL) {
 
-    if (head->next == NULL) {
-        head = head->next;
-        return;
+        if (head->next == NULL) {
+            head = head->next;
+        }
+        else {
+            Node *tmp = new Node;
+            tmp = head;
+
+            while (tmp->next->next != NULL)
+                tmp = tmp->next;
+
+            delete tmp->next;
+            tmp->next = NULL;
+        }
     }
-
-    while (tmp->next->next != NULL)
-        tmp = tmp->next;
-
-    // is need to delete?
-    delete tmp->next;
-    tmp->next = NULL;
 }
 
 
