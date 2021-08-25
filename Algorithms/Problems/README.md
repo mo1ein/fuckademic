@@ -240,9 +240,29 @@ Output: [1]
 ```
 [link](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
+## 11. [First Unique Character in a String](./FirstUniqueCharacter.cpp)
+Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
 
-add this
-https://leetcode.com/problems/first-unique-character-in-a-string/discuss/86338/C%2B%2B-2-solutions
+Example 1:
+```
+Input: s = "leetcode"
+Output: 0
+```
+
+Example 2:
+```
+Input: s = "loveleetcode"
+Output: 2
+```
+
+Example 3:
+```
+Input: s = "aabb"
+Output: -1
+```
+[link](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+
 add this
 https://leetcode.com/problems/add-two-numbers/
 add this to linked lsist or...
