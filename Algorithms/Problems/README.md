@@ -197,9 +197,9 @@ Output: [
 https://leetcode.com/problems/score-after-flipping-matrix/
 
 
-## 9.[XOR Queries of a Subarray](./xorQueries.cpp)
+## 9. [XOR Queries of a Subarray](./xorQueries.cpp)
 Given the array arr of positive integers and the array queries where
-queries[i] = [Li, Ri], for each query i compute the XOR of elements from Li to Ri (that is, arr[Li] xor arr[Li+1] xor ... xor arr[Ri] ).
+`queries[i] = [Li, Ri]`, for each query i compute the XOR of elements from Li to Ri (that is, `arr[Li] xor arr[Li+1] xor ... xor arr[Ri]`).
 Return an array containing the result for the given queries.
 ```
 Input: arr = [1,3,4,8], queries = [[0,1],[1,2],[0,3],[3,3]]
@@ -217,3 +217,40 @@ The XOR values for queries are:
 [3,3] = 8
 ```
 [link](https://leetcode.com/problems/xor-queries-of-a-subarray/)
+
+
+## 10. [Find All Duplicates in an Array](./FindAllDuplicates.cpp) *
+Given an integer array nums of length n where all the integers of nums are in the range [1, n] and each integer appears once or twice, return an array of all the integers that appears twice.
+
+You must write an algorithm that runs in O(n) time and uses only constant extra space.
+
+
+Example 1:
+```
+Input: nums = [4,3,2,7,8,2,3,1]
+Output: [2,3]
+
+```
+
+Example 2:
+```
+Input: nums = [1,1,2]
+Output: [1]
+
+```
+[link](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
+
+add this
+https://leetcode.com/problems/first-unique-character-in-a-string/discuss/86338/C%2B%2B-2-solutions
+add this
+https://leetcode.com/problems/add-two-numbers/
+add this to linked lsist or...
+circular
+https://leetcode.com/problems/rotate-list/
+add this dp
+understand what is it?
+https://leetcode.com/problems/word-break/
+https://leetcode.com/problems/word-break/discuss/809993/C%2B%2B-DP-oror-Easy-to-understand
+https://leetcode.com/problems/word-break/discuss/870741/C%2B%2B-DP-different-approach-Fast-(beats-100-of-submissions)-and-Simple
+https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/discuss/1403946/C%2B%2B-2-approaches-(simple-intuition-with-example-and-diagram)
