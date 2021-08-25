@@ -4,7 +4,9 @@ You are given two non-empty linked lists representing two non-negative integers.
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
 Example 1:
-<img alt="" src="https://assets.leetcode.com/uploads/2020/10/02/addtwonumber1.jpg" style="width: 483px; height: 342px;">
+
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/02/addtwonumber1.jpg" style="width: 470px; height: 345px;">
+
 ```
 Input: l1 = [2,4,3], l2 = [5,6,4]
 Output: [7,0,8]
@@ -25,10 +27,11 @@ Output: [8,9,9,9,0,0,0,1]
 ```
 [link](https://leetcode.com/problems/add-two-numbers/)
 
-## 2. [Rotate List](https://leetcode.com/problems/rotate-list/)
+## 2. [Rotate List](./RotateList.cpp)
 Given the head of a linked list, rotate the list to the right by k places.
 Example 1:
-<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/rotate1.jpg" style="width: 450px; height: 191px;">
+
+<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/rotate1.jpg" style="width: 455px; height: 195px;">
 
 ```
 Input: head = [1,2,3,4,5], k = 2
@@ -36,7 +39,8 @@ Output: [4,5,1,2,3]
 ```
 
 Example 2:
-<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/roate2.jpg" style="width: 305px; height: 350px;">
+
+<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/roate2.jpg" style="width: 310px; height: 355px;">
 
 ```
 Input: head = [0,1,2], k = 4
