@@ -21,6 +21,8 @@
 ### Sorting Algorithms
 - [insertion sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/insertion%20sort/insertion_sort.cpp)
 - [merge sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/mergeSort.cpp)
+- [quick sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/quickSort.cpp)
+https://www.youtube.com/watch?v=SLauY6PpjW4&t=16s
 
 
 ### Find Path Algorithms
