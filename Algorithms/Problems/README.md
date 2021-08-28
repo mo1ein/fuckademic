@@ -300,3 +300,16 @@ understand what is it?
 https://leetcode.com/problems/word-break/
 https://leetcode.com/problems/word-break/discuss/809993/C%2B%2B-DP-oror-Easy-to-understand
 https://leetcode.com/problems/word-break/discuss/870741/C%2B%2B-DP-different-approach-Fast-(beats-100-of-submissions)-and-Simple
+2 solution my and ..
+and understand this answer
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+
+
+add this to algorithms
+https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/
+https://www.geeksforgeeks.org/generating-subarrays-using-recursion/
+
+add this with bitwise ans
+https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/
+add this and know what
+https://leetcode.com/problems/top-k-frequent-elements/solution/
