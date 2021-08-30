@@ -313,3 +313,16 @@ add this with bitwise ans
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/
 add this and know what
 https://leetcode.com/problems/top-k-frequent-elements/solution/
+add this
+and + more approachs
+https://leetcode.com/problems/find-the-duplicate-number/discuss/560089/C%2B%2B-4-different-solutions.-(beats-100-)-Detailed-Explanantion
+https://leetcode.com/problems/find-the-duplicate-number/
+https://leetcode.com/problems/find-the-duplicate-number/discuss/72846/My-easy-understood-solution-with-O(n)-time-and-O(1)-space-without-modifying-the-array.-With-clear-explanation.
+
+similler to this upper question
+https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+understood why ...
+https://leetcode.com/problems/number-of-matching-subsequences/discuss/1289971/C%2B%2B-Solutions-one-with-HashMap-%2B-Binary-Search-other-with-Hashmap
+https://leetcode.com/problems/number-of-matching-subsequences/discuss/1290938/C%2B%2B-Array-based-Solution-Explained-~98-Time-~70-Space
+https://leetcode.com/problems/number-of-matching-subsequences/
