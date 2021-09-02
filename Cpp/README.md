@@ -11,8 +11,7 @@
 ## In class
 https://stackoverflow.com/questions/9075931/function-declaration-inside-or-outside-the-class
 
-
-https://www.geeksforgeeks.org/map-vs-unordered_map-c/
+https://www.geeksforgeeks.org/upper_bound-in-cpp/
 ## files
 https://www.w3schools.com/cpp/cpp_files.asp
 
@@ -29,6 +28,7 @@ https://www.codegrepper.com/code-examples/cpp/c%2B%2B+vector+remove+all+elements
 header files
 template
 
+https://www.geeksforgeeks.org/handling-the-divide-by-zero-exception-in-c/
 https://www.youtube.com/watch?v=JiMcwYYZhtc
 https://www.google.com/search?client=firefox-b-d&q=sort+unorderedmap+by+value
 https://stackoverflow.com/questions/31323135/sort-an-unordered-map-using-sort

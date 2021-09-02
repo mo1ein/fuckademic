@@ -326,3 +326,12 @@ understood why ...
 https://leetcode.com/problems/number-of-matching-subsequences/discuss/1289971/C%2B%2B-Solutions-one-with-HashMap-%2B-Binary-Search-other-with-Hashmap
 https://leetcode.com/problems/number-of-matching-subsequences/discuss/1290938/C%2B%2B-Array-based-Solution-Explained-~98-Time-~70-Space
 https://leetcode.com/problems/number-of-matching-subsequences/
+
+
+read this solution second
+add or not? idk
+https://leetcode.com/problems/zigzag-conversion/solution/
+
+dpppp
+https://leetcode.com/problems/triangle/discuss/38737/Bottom-Up-5-line-C%2B%2B-Solution
+https://leetcode.com/problems/triangle/discuss/38730/DP-Solution-for-Triangle
