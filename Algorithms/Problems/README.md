@@ -335,3 +335,25 @@ https://leetcode.com/problems/zigzag-conversion/solution/
 dpppp
 https://leetcode.com/problems/triangle/discuss/38737/Bottom-Up-5-line-C%2B%2B-Solution
 https://leetcode.com/problems/triangle/discuss/38730/DP-Solution-for-Triangle
+
+
+
+add this after pow
+write my solution
+https://leetcode.com/problems/powx-n/
+https://leetcode.com/problems/powx-n/discuss/19709/C%2B%2B-4-lines-of-code
+
+
+https://www.spoj.com/problems/REDARR2/
+
+
+added before? if yes add link or add...
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+simmiler to duplicates
+
+
+great dppp
+https://leetcode.com/problems/interleaving-string/
+https://leetcode.com/problems/interleaving-string/discuss/31901/C%2B%2B-dp-solution-with-explanation
+https://leetcode.com/problems/interleaving-string/discuss/31879/My-DP-solution-in-C%2B%2B
+https://leetcode.com/problems/interleaving-string/discuss/1247165/C%2B%2B-Memoizn(3-variables)-greater-Memoizn(without-3rd-var)-greater-DP-(m*n)-greater-DP(n)
