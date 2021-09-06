@@ -50,6 +50,18 @@ Output: 243
 [link](https://bit.ly/3hgN6wl)
 
 
+## 3. [Pow(x, n)](./Pow2.cpp)
+Implement `pow(x, n)`, which calculates x raised to the power `n` `(i.e., xn)`.
+
+Example:
+```
+Input: x = 2.00000, n = 10
+Output: 1024.00000
+```
+[link](https://leetcode.com/problems/powx-n/)
+
+
+
 ## 3. [Random number](./RandomNumber.cpp)
 Given a function that returns a random integer number between 1 and 5, create a function that creates a random integer between 1 and 7.
 // add link
@@ -311,9 +323,9 @@ https://www.geeksforgeeks.org/generating-subarrays-using-recursion/
 
 add this with bitwise ans
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/
+
 add this and know what
 https://leetcode.com/problems/top-k-frequent-elements/solution/
-add this
 and + more approachs
 https://leetcode.com/problems/find-the-duplicate-number/discuss/560089/C%2B%2B-4-different-solutions.-(beats-100-)-Detailed-Explanantion
 https://leetcode.com/problems/find-the-duplicate-number/
@@ -332,16 +344,6 @@ read this solution second
 add or not? idk
 https://leetcode.com/problems/zigzag-conversion/solution/
 
-dpppp
-https://leetcode.com/problems/triangle/discuss/38737/Bottom-Up-5-line-C%2B%2B-Solution
-https://leetcode.com/problems/triangle/discuss/38730/DP-Solution-for-Triangle
-
-
-
-add this after pow
-write my solution
-https://leetcode.com/problems/powx-n/
-https://leetcode.com/problems/powx-n/discuss/19709/C%2B%2B-4-lines-of-code
 
 
 https://www.spoj.com/problems/REDARR2/
@@ -352,8 +354,4 @@ https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 simmiler to duplicates
 
 
-great dppp
-https://leetcode.com/problems/interleaving-string/
-https://leetcode.com/problems/interleaving-string/discuss/31901/C%2B%2B-dp-solution-with-explanation
-https://leetcode.com/problems/interleaving-string/discuss/31879/My-DP-solution-in-C%2B%2B
-https://leetcode.com/problems/interleaving-string/discuss/1247165/C%2B%2B-Memoizn(3-variables)-greater-Memoizn(without-3rd-var)-greater-DP-(m*n)-greater-DP(n)
+https://leetcode.com/problems/third-maximum-number/discuss/197969/C%2B%2B-Accepted-Solution-O(1)-Space-O(n)-Time.
