@@ -82,8 +82,28 @@ There are two ways to reach the bottom-right corner:
 [link](https://leetcode.com/problems/unique-paths-ii/)
 
 
-## 5. [Interleaving String](./InterleavingString.cpp)
-Given strings s1, s2, and s3, find whether s3 is formed by an interleaving of s1 and s2.
+## 5. [Triangle](./Triangle.cpp) *
+Given a `triangle` array, return the minimum path sum from top to bottom.
+For each step, you may move to an adjacent number of the row below.<br/ >
+More formally, if you are on index i on the current row, you may move to either index `i` or index `i + 1` on the next row.
+
+Example:
+```
+Input: triangle = [[2],[3,4],[6,5,7],[4,1,8,3]]
+Output: 11
+Explanation: The triangle looks like:
+   2
+  3 4
+ 6 5 7
+4 1 8 3
+The minimum path sum from top to bottom is 2 + 3 + 5 + 1 = 11 (underlined above).
+
+```
+
+[link](https://leetcode.com/problems/triangle/)
+
+## 6. [Interleaving String](./InterleavingString.cpp)
+Given strings `s1`, `s2`, and `s3`, find whether s3 is formed by an interleaving of s1 and s2.
 An interleaving of two strings s and t is a configuration where they are divided into non-empty substrings such that:
 
 - `s = s1 + s2 + ... + sn`
@@ -93,7 +113,7 @@ An interleaving of two strings s and t is a configuration where they are divided
 
 Note: a + b is the concatenation of strings a and b.
 
-Example 1:
+Example:
 
 <img alt="" src="https://assets.leetcode.com/uploads/2020/09/02/interleave.jpg" style="width: 561px; height: 203px;">
 
@@ -104,5 +124,8 @@ Output: true
 
 approach 2
 one dp
+https://leetcode.com/problems/interleaving-string/discuss/31901/C%2B%2B-dp-solution-with-explanation
+https://leetcode.com/problems/interleaving-string/discuss/31879/My-DP-solution-in-C%2B%2B
 https://leetcode.com/problems/interleaving-string/solution/
+https://leetcode.com/problems/interleaving-string/discuss/1247165/C%2B%2B-Memoizn(3-variables)-greater-Memoizn(without-3rd-var)-greater-DP-(m*n)-greater-DP(n)
 [link](https://leetcode.com/problems/interleaving-string/solution/)
