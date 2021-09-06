@@ -99,6 +99,12 @@ Explanation: The triangle looks like:
 The minimum path sum from top to bottom is 2 + 3 + 5 + 1 = 11 (underlined above).
 
 ```
+approachs
+
+https://leetcode.com/problems/triangle/discuss/38737/Bottom-Up-5-line-C%2B%2B-Solution
+
+
+https://leetcode.com/problems/triangle/discuss/38730/DP-Solution-for-Triangle
 
 [link](https://leetcode.com/problems/triangle/)
 
@@ -121,11 +127,17 @@ Example:
 Input: s1 = "aabcc", s2 = "dbbca", s3 = "aadbbcbcac"
 Output: true
 ```
-
 approach 2
+
 one dp
+
 https://leetcode.com/problems/interleaving-string/discuss/31901/C%2B%2B-dp-solution-with-explanation
+
 https://leetcode.com/problems/interleaving-string/discuss/31879/My-DP-solution-in-C%2B%2B
+
 https://leetcode.com/problems/interleaving-string/solution/
+
 https://leetcode.com/problems/interleaving-string/discuss/1247165/C%2B%2B-Memoizn(3-variables)-greater-Memoizn(without-3rd-var)-greater-DP-(m*n)-greater-DP(n)
+
+
 [link](https://leetcode.com/problems/interleaving-string/solution/)
