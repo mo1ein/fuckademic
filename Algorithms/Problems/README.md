@@ -306,6 +306,22 @@ When i=3, nums[i] = 2, and the average of its neighbors is (6+0) / 2 = 3.
 ```
 [link](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/)
 
+## 15. [Parentheses](./parentheses.cpp) bazar interview sotoon
+given a string and integer t. t is number of test cases. each test case contain two number a and b.
+
+a is position of `'('` and b is position of `')'`. your task is to insert parentheses to the string in each test case.
+
+Example:
+```
+Input:
+moein
+3
+1 2
+2 3
+0 4
+Output:
+(m((o))ei)n
+```
 
 add this dp
 understand what is it?
