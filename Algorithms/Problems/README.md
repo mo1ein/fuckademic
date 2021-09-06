@@ -1,5 +1,5 @@
 # Problems
-## 1. [Rotate Image](./RotateImage1.cpp)
+## 1. [Rotate Image](./RotateImage1.cpp) *
 You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
 You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. **DO NOT** allocate another 2D matrix and do the rotation.
 ```
@@ -62,12 +62,12 @@ Output: 1024.00000
 
 
 
-## 3. [Random number](./RandomNumber.cpp)
+## 4. [Random number](./RandomNumber.cpp)
 Given a function that returns a random integer number between 1 and 5, create a function that creates a random integer between 1 and 7.
 // add link
 
 
-## 4. [Missing number](./MissingNumber.cpp)
+## 5. [Missing number](./MissingNumber.cpp)
 Find the missing numbers in an unsorted integer array. There might be duplicate numbers in the list.
 ```
 Input: [2, 5, 1, 1, 2, 6, 9, 4, 4]
@@ -76,7 +76,7 @@ Output: [3, 7, 8]
 // add link
 
 
-## 5. [Find Matrix Saddle Point](./matrixSaddlePoint.cpp)
+## 6. [Find Matrix Saddle Point](./matrixSaddlePoint.cpp)
 Given a matrix of n x n size, the task is to find the saddle point of the matrix.
 A saddle point is an element of the matrix such that it is the minimum element in its row and maximum in its column.
 ```
@@ -102,7 +102,7 @@ Output: No saddle point
 [link](https://www.geeksforgeeks.org/saddle-point-matrix/)
 
 
-## 5-1. [Find Matrix Saddle Point](./matrixSaddlePoint2.cpp)
+## 6-1. [Find Matrix Saddle Point](./matrixSaddlePoint2.cpp)
 Find saddle point of matrix like perevious problem.
 But an element of the matrix such that it is the maximum element in its row and minimum in its column.
 ```
@@ -117,7 +117,7 @@ Output: 3
 // 3 is maximum in its row and minimum in its column.
 ```
 
-## 6. [Set Matrix Zeroes](./SetMatrixZeroes.cpp)
+## 7. [Set Matrix Zeroes](./SetMatrixZeroes.cpp)
 Given an `m x n` integer matrix matrix, if an element is `0`, set its entire row and column to `0`'s, and return the matrix.
 You must do it `in place`.
 ```
@@ -138,7 +138,7 @@ matrix = [
 [link](https://leetcode.com/problems/set-matrix-zeroes/)
 
 
-## 7. [ValidParentheses](./ValidParentheses.cpp)
+## 8. [ValidParentheses](./ValidParentheses.cpp)
 Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
 ```
 Input: s = "{[]}"
@@ -156,7 +156,7 @@ Output: false
 [link](https://leetcode.com/problems/valid-parentheses/)
 
 
-## 8. [Sort the Matrix Diagonally](./DiagonallyMatrix.cpp)
+## 9. [Sort the Matrix Diagonally](./DiagonallyMatrix.cpp)
 Given an `m x n` matrix mat of integers, sort each matrix `diagonal` in ascending order and return the resulting matrix.
 <center>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/01/21/1482_example_1_2.png" style="width: 500px; height: 198px;">
@@ -182,7 +182,7 @@ mat = [
 [link](https://leetcode.com/problems/sort-the-matrix-diagonally/)
 
 
-## 8. [Merge Intervals](./MergeIntervals.cpp)
+## 10. [Merge Intervals](./MergeIntervals.cpp) *
 Given an array of intervals where `intervals[i] = [starti, endi]`, merge all overlapping intervals, and return an array of the
 non-overlapping intervals that cover all the intervals in the input.
 ```
@@ -209,7 +209,7 @@ Output: [
 https://leetcode.com/problems/score-after-flipping-matrix/
 
 
-## 9. [XOR Queries of a Subarray](./xorQueries.cpp)
+## 11. [XOR Queries of a Subarray](./xorQueries.cpp)
 Given the array arr of positive integers and the array queries where
 `queries[i] = [Li, Ri]`, for each query i compute the XOR of elements from Li to Ri (that is, `arr[Li] xor arr[Li+1] xor ... xor arr[Ri]`).
 Return an array containing the result for the given queries.
@@ -231,7 +231,7 @@ The XOR values for queries are:
 [link](https://leetcode.com/problems/xor-queries-of-a-subarray/)
 
 
-## 10. [Find All Duplicates in an Array](./FindAllDuplicates.cpp) *
+## 12. [Find All Duplicates in an Array](./FindAllDuplicates.cpp) *
 Given an integer array nums of length n where all the integers of nums are in the range [1, n] and each integer appears once or twice, return an array of all the integers that appears twice.
 
 You must write an algorithm that runs in O(n) time and uses only constant extra space.
@@ -252,7 +252,7 @@ Output: [1]
 ```
 [link](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
-## 11. [First Unique Character in a String](./FirstUniqueCharacter.cpp)
+## 13. [First Unique Character in a String](./FirstUniqueCharacter.cpp)
 Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
 
 Example 1:
@@ -276,7 +276,7 @@ Output: -1
 
 
 
-## 12. [Array With Elements Not Equal to Average of Neighbors](./)
+## 14. [Array With Elements Not Equal to Average of Neighbors](./NotEqualAverageNeighbors.cpp)
 You are given a 0-indexed array nums of distinct integers. You want to rearrange the elements in the array such that every element in the rearranged array is not equal to the average of its neighbors.
 
 More formally, the rearranged array should have the property such that for every i in the range 1 <= i < nums.length - 1, (nums[i-1] + nums[i+1]) / 2 is not equal to nums[i].
