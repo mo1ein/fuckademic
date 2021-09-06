@@ -7,7 +7,10 @@
 
 ## Vector
 
+https://www.geeksforgeeks.org/check-key-present-cpp-map-unordered_map/
 
+https://www.geeksforgeeks.org/int_max-int_min-cc-applications/
+https://github.com/mortennobel/cpp-cheatsheet
 ## In class
 https://stackoverflow.com/questions/9075931/function-declaration-inside-or-outside-the-class
 
