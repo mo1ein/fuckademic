@@ -3,10 +3,8 @@
 - math
 - implemention
 - bitmask
-- brute force
 - sorting
 - strings
-.
 .
 .
 
@@ -19,7 +17,8 @@
 - [recursive binary search](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/binary%20search/recursive_binary_search.cpp)
 
 ### Sorting Algorithms
-- [bubble sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/insertion%20sort/bubbleSort.cpp)
+- [bubble sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/bubbleSort.cpp)
+- [selection sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/selectionSort.cpp)
 - [insertion sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/insertion%20sort/insertion_sort.cpp)
 - [merge sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/mergeSort.cpp)
 - [quick sort](https://github.com/mo1ein/cs-studies/blob/main/Algorithms/sorting%20algorithms/quickSort.cpp)
