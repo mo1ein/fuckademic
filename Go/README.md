@@ -1,0 +1,3 @@
+# Golang learning
+
+## [How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
