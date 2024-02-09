@@ -1,27 +1,37 @@
-# Browse my CS studies (maybe ready for interviews...)
+# fuckademic
+This word is mixed of *fuck* + *academic*. It's good for people who hate academic shits (classes, grades, ranks, professors, ...) and want to learn from the free internet world like me.
+I created this repo to share my learning process in **computer science** & **software enginnering** stuffs. Maybe this the biggest project in my life.
 
 ## Topics
 
 - [Algorithms and Problem Solving](./Algorithms)
 - [Data Structure](https://github.com/mo1ein/cs-studies/blob/main/Data%20Sturcture/README.md)
-- [OOP (cpp and python )](./OOP)
-- Design patterns
 - [System Design](./System%20Design)
-- linux
-- Database (sql and...)
+- [OOP (and design patterns)](./OOP)
 - [Clean Code](https://github.com/mo1ein/cs-studies/tree/main/Clean%20Code)
-- python django
-- Project for learn
-- [Cpp more](./Cpp)
-- fast typing
+
+
+## Languages
+
+- go
+- python
+- [c/c++](./Cpp)
+
+## Database
+
+## DevOps/SRE/CICD
 - [git](./git)
-- python and cpp language knowledge
-- docker
-- ci/cd
-- vim
-- lpics summery
+- CI/CD & docker
+- Linux (and LPIC) learning
 - network
--
--
--
-## Create resume and how ...
+
+## Other
+- vim
+- typing skill
+
+## interview sucks
+
+
+
+#### TODO
+- [] better to use github pages
