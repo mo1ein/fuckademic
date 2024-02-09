@@ -1,6 +1,6 @@
 # fuckademic
-This word is mixed of *fuck* + *academic*. It's good for people who hate academic shits (classes, grades, ranks, professors, ...) and want to learn from the free internet world like me.
-I created this repo to share my learning process in **computer science** & **software enginnering** stuffs. Maybe this the biggest project in my life.
+This word is mixed with *fuck* + *academic*. It's good for people who hate academic shits (classes, grades, ranks, professors, ...) and want to learn from the free internet world like me.
+I created this repo to share my learning process in **computer science** & **software enginnering** stuffs. Maybe this is the biggest project in my life.
 
 ## Topics
 
@@ -34,4 +34,4 @@ I created this repo to share my learning process in **computer science** & **sof
 
 
 #### TODO
-- [] better to use github pages
+- [ ] better to use github pages
